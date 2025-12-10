@@ -90,7 +90,7 @@ Screenshots
 
 
 ## Config History
-![Script Execution](screenshot/Config_history.png)
+![Script Execution](screenshots/Config_history.png)
 
 ### Screenshot Commit History and Merge History
-![Script Execution](screenshot/Log_history.png)
+![Script Execution](screenshots/Log_history.png)
