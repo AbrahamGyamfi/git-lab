@@ -86,8 +86,11 @@ git reflog show --all
 ```
 
 
+Screenshots
 
+
+## Config History
+![Script Execution](screenshot/Config_history.png)
 
 ### Screenshot Commit History and Merge History
-
-![Script Execution](screenshot/LOGSHOW.png)
+![Script Execution](screenshot/Log_history.png)
